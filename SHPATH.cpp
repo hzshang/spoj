@@ -1,4 +1,5 @@
 //http://www.spoj.com/problems/SHPATH/
+//修改队列中边的长度不一定要删除，可以做标记表示已经取过改边
 #include <iostream>
 #include <vector>
 #include <utility>
