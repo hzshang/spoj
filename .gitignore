@@ -1,3 +1,4 @@
 *.exe
 test*
 terminal.glue
+.DS_Store
